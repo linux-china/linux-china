@@ -1,4 +1,4 @@
-Hi. I’m linux_china 🤗 👱 🧑‍💻 👓 💻 👨‍👩‍👧‍👦 ☕ 🍵 🍺 📚 🏝 and made in 🇨🇳.
+Hi. I’m linux-china 🤗 👱 🧑‍💻 👓 💻 👨‍👩‍👧‍👦 ☕ 🍵 🍺 📚 🏝, and made in 🇨🇳.
 
 ![Chinese Great Wall from hansonluu on unsplash](https://github.com/linux-china/linux-china/raw/master/banner.png)
 
